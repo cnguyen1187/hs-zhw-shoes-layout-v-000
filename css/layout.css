@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 .social.media {
-  float: right;
+  display: inline;
 }
 
 .links {

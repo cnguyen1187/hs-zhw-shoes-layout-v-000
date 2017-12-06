@@ -35,5 +35,7 @@
 }
 
 . {
-  display: inline;
+  position: fixed;
+  top: 0;
+  right: 100px;
 }

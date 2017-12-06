@@ -28,7 +28,7 @@
   position: relative;
 }
 
-.border.right {
+.border.right h3 {
   position: fixed;
   top: 0;
   right: 120px;

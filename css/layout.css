@@ -24,7 +24,9 @@
 
 /* Posititoning Classes */
 
-
+.shadow {
+  position: relative;
+}
 
 .links {
   position: fixed;

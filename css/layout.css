@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+section {
+  display: inline;
+}
+
 h3 {
   display: inline;
 }
